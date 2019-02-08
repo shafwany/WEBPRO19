@@ -1,0 +1,12 @@
+.bg1{
+	background-image: linear-gradient(-90deg, yellow,red);
+}
+.foto{
+	background:url("foto_1.PNG");
+}
+.foto:hover{
+	background: url("foto_2.PNG");
+}
+.bg2{
+	background: repeating-radial-gradient(circle at 0 0, #eee, #ccc 50px);
+}
