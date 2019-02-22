@@ -1,0 +1,40 @@
+{
+"title" : "CV Shafwany",
+"bio" 	: {
+	"name" 		: "Ahmad Shafwany",
+	"job"		: "Freelance",
+	"birth"		: "Sukabumi 25 Februari 1998",
+	"address"	: "Sentul, Bogor",
+	"profile" 	: "Jangan duduk di toilet jongkok",
+	"phone"		: "082216649161",
+	"email"	: "shafwany33@gmail.com"
+		},
+"socmed" : {
+	"twitter"	: "https://twitter.com/shafwan25",
+	"ig"		: "https://instagram.com/shafwany"
+			},
+"prof_pict" : "img/boy.png",
+
+"Education" : {
+	"sd"			: "SDN 4 Sukabumi",
+	"start_sd"	: "2004",
+	"end_sd"		: "2010",
+
+	"smp"			: "SMPIT Al-Himmah",
+	"start_smp"		: "2010",
+	"end_smp"		: "2013",
+	
+	"sma"			: "SMK Daarut Tauhiid",
+	"start_sma"		: "2013",
+	"end_sma"		: "2016",
+
+	"kuliah"		: "Telkom University",
+	"start_kuliah"	: "2016",
+	"end_kuliah"	: "2020"
+			},
+
+"skills" : {
+	"skill" : ""
+		}		
+
+}
